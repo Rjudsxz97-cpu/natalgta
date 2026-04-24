@@ -1,16 +1,33 @@
-# projeto_judson_dfs
+# 🎄 Galado's Natal City (GTA Edition) 🚗💨
 
-A new Flutter project.
+Bem-vindo ao repositório do **NatalGTA**, um projeto desenvolvido em Flutter.
+> **Aviso:** app de zueira, mas vou desenvolvendo no tempo livre.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+* Tela de loguin: fiz umas imagens com IA, coloquei uma musica que fez sucesso de uma banda local, banda Grafith.
+* **Sistema de Cadastro:** Validação de segurança em tempo real (Letras maiúsculas, números e tamanho de senha).
+* **Formatadores Inteligentes:** Máscara automática para telefone `+55 (84)` e data de nascimento.
+* quando o o usuário está fazendo o cadastro tem uma caixinha de identificação de heterossexualidade, se ele for guay vai desmarcar e vai ser trolado quando aperta para finalizar o cadastro.(obs:não homofobico) 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tecnologias Utilizadas
+
+* [Flutter](https://flutter.dev) - Framework UI.
+* [Dart](https://dart.dev) - Linguagem de programação.
+* [AudioPlayers](https://pub.dev/packages/audioplayers) - Para a trilha sonora das ondas.
+
+---
+
+## 🎮 Como rodar o projeto(terminal linux)
+
+1º clone o repositório
+   
+   git clone [https://github.com/Rjudsxz97-cpu/natalgta.git](https://github.com/Rjudsxz97-cpu/natalgta.git)
+2º entrar na pasta (cd natalgta)
+3º digita no terminal "flutter pub get" aperta enter e digital "flutter run" 
+   
+
